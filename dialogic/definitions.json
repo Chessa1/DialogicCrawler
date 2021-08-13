@@ -1,0 +1,55 @@
+{
+	"glossary": [
+
+	],
+	"variables": [
+		{
+			"id": "1628273941-146",
+			"name": "up_available",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1628273882-366",
+			"name": "left_available",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1628273831-648",
+			"name": "right_available",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1628273949-918",
+			"name": "down_available",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1628596906-648",
+			"name": "explore_available",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1628604604-787",
+			"name": "battle",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1628604960-366",
+			"name": "player_health",
+			"type": 0,
+			"value": "10"
+		},
+		{
+			"id": "1628604277-648",
+			"name": "enemy_health",
+			"type": 0,
+			"value": "10"
+		}
+	]
+}

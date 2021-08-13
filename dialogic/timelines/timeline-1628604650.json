@@ -1,0 +1,17 @@
+{
+	"events": [
+		{
+			"emit_signal": "Defend",
+			"event_id": "dialogic_040"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 0
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1628604650.json",
+		"name": "RNGlobbydefend"
+	}
+}
